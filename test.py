@@ -3,8 +3,8 @@
 # file_name = ''
 # file_name = 'mecab_bonbonshokora'
 # file_name = 'Juman_bonbonshokora'
-file_name = 'Janome_bonbonshokora'
-ma_type = 2
+# file_name = 'Janome_bonbonshokora'
+ma_type = 0
 # text = ''
 
 #ファイル読み込み
